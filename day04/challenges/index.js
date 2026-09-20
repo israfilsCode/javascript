@@ -22,3 +22,15 @@ checkEvenOdd(8);
 checkEvenOdd(17);
 checkEvenOdd(24);
 checkEvenOdd(31);
+
+
+
+// Challenge 3
+
+function multiply(a, b) {
+    return a * b;
+}
+
+console.log(multiply(5, 4));
+console.log(multiply(10, 3));
+console.log(multiply(7, 8));
